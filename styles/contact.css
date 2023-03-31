@@ -1,0 +1,38 @@
+html {
+	background: url('../images/food2\ copy.jpg') no-repeat fixed center;
+	background-size: cover;
+}
+
+#nav{ 
+    background-color: rgba(250, 235, 215, 0);
+}
+
+#nav a{
+    color:white;
+}
+
+main {
+	width: 475px;
+	padding: 5px 25px;
+	margin: auto;
+	background-color: rgba(255,255,255,.75);
+}
+
+.width {
+    margin: auto;
+    margin-top: 10em;
+}
+
+#hello {
+    max-width: 1200px;
+    min-width: 600px;
+}
+
+#hello a{
+    text-decoration: none;
+    color:darkgrey;
+}
+
+#hello a:hover{
+    color: rgb(231, 161, 167, 1);
+}
